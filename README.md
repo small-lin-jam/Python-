@@ -19,6 +19,7 @@
 - 算法与逻辑练习代码
 
 部分示例会结合 [tools.py](https://github.com/small-lin-jam/tools.py) 进行扩展实现，适合 Python 学习者参考借鉴。
+详情请前往wiki板块了解详细信息
 
 
 ## 📜 法律与开源说明
